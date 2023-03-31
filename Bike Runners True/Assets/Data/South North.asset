@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 110e27649e857934e902f2bb56da3a1a, type: 3}
+  m_Name: South North
+  m_EditorClassIdentifier: Assembly-CSharp::LevelChunkData
+  chunkSize: {x: 37.5, y: 37.5}
+  levelChunks:
+  - {fileID: 6452092530164941427, guid: 4473641fe42e2da42b7cd138e712ace9, type: 3}
+  entryDirection: 2
+  exitDirection: 0
