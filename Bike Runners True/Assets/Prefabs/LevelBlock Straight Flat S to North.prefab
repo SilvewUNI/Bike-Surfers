@@ -108,7 +108,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4865493703888023934}
   m_Layer: 0
-  m_Name: LevelBlock S to North
+  m_Name: LevelBlock Straight Flat S to North
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
