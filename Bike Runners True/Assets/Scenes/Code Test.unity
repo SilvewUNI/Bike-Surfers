@@ -1386,6 +1386,10 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c7c1118b18ee87d49aeb144f4fa9f180, type: 2}
   - {fileID: 11400000, guid: a4ad4c7e03ff8274a8327b5bebfd802c, type: 2}
   - {fileID: 11400000, guid: bf6b7304d749bbe42a6dd1f40a43f42b, type: 2}
+  - {fileID: 11400000, guid: 8dfb17f223a405a4897816f8232a7138, type: 2}
+  - {fileID: 11400000, guid: 43ea1db8b501c5145b1869a8040df40d, type: 2}
+  - {fileID: 11400000, guid: 6e03d7f6b8265ae4baefe9e3b617b18e, type: 2}
+  - {fileID: 11400000, guid: 2d186f355d347484dac5ba7f2b4dd300, type: 2}
   firstChunk: {fileID: 11400000, guid: c7c1118b18ee87d49aeb144f4fa9f180, type: 2}
   spawnOrigin: {x: 0, y: 0, z: 0}
   chunksToSpawn: 10
@@ -1927,7 +1931,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2050110248}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 60.3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
