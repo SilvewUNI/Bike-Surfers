@@ -1723,7 +1723,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 2d186f355d347484dac5ba7f2b4dd300, type: 2}
   firstChunk: {fileID: 11400000, guid: c7c1118b18ee87d49aeb144f4fa9f180, type: 2}
   spawnOrigin: {x: 0, y: 0, z: 0}
-  chunksToSpawn: 10
+  chunksToSpawn: 7
 --- !u!4 &969930993
 Transform:
   m_ObjectHideFlags: 0
@@ -1732,7 +1732,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 969930991}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 12.4, z: 64.1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
