@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 110e27649e857934e902f2bb56da3a1a, type: 3}
-  m_Name: New Level Chunk Data
+  m_Name: Gup South North
   m_EditorClassIdentifier: 
-  chunkSize: {x: 10, y: 10}
-  levelChunks: []
-  entryDirection: 0
+  chunkSize: {x: 37.5, y: 37.5}
+  levelChunks:
+  - {fileID: 7200954669793539432, guid: df9848612e54dbe40bf1c0eae43b8325, type: 3}
+  entryDirection: 2
   exitDirection: 0
