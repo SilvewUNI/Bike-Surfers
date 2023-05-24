@@ -18,6 +18,8 @@ private void OnTriggerEnter(Collider other)
         coinText.text = "Coin: " + Coin.ToString();
         Debug.Log(Coin);
         Destroy(other.gameObject);
+
+        FindObjectOfType<AudioManager>().Play("POINTSOUND");
     }
 }
 
