@@ -854,10 +854,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 414832897}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f8dce9876829c574b85071f5525a8963, type: 3}
+  m_Script: {fileID: 11500000, guid: 78175e3bc9567874da35d6f5cd9ffba8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wall: {fileID: 1802721585}
+  objectToDisappear: {fileID: 1802721585}
 --- !u!1 &432224314
 GameObject:
   m_ObjectHideFlags: 0
@@ -4491,7 +4491,6 @@ GameObject:
   - component: {fileID: 1802721589}
   - component: {fileID: 1802721588}
   - component: {fileID: 1802721587}
-  - component: {fileID: 1802721586}
   m_Layer: 0
   m_Name: Wall
   m_TagString: Untagged
@@ -4499,19 +4498,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1802721586
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1802721585}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f8dce9876829c574b85071f5525a8963, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  wall: {fileID: 0}
 --- !u!65 &1802721587
 BoxCollider:
   m_ObjectHideFlags: 0

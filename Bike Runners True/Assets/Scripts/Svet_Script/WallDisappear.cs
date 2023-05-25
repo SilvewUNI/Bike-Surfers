@@ -15,25 +15,18 @@ public class WallDisappear : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             playerInside = true;
+
+            if (!playerMoving && playerInside)
+            {
+                wall.SetActive(false);
+            }
+            
         }
     }
 
-    private void OnTriggerExit(Collider other)
-    {
-        if (other.CompareTag("Player"))
-        {
-            if (!playerMoving && playerInside)
-            {
-                // Make the object disappear here
-                wall.SetActive(false);
-            }
-            playerInside = false;
-        }
-    }
 
     private void Update()
     {
-        // Check if the player is moving
         playerMoving = transform.position != lastPosition;
         lastPosition = transform.position;
     }
