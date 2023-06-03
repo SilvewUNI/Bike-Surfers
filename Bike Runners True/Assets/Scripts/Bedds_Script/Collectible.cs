@@ -5,8 +5,8 @@ using UnityEngine;
 public class Collectible : MonoBehaviour
 {
    
-   pubic int value;
-   public float value;
+   public int value;
+   public float values;
 
     // Update is called once per frame
     void Update()
