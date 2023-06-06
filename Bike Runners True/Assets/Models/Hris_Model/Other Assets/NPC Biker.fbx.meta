@@ -1,0 +1,661 @@
+fileFormatVersion: 2
+guid: 0dc491bf8d2af9c4fb384f5a95a33ca8
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -2696791079460786230
+    second: Armature|Armature|Armature.001Action.001
+  - first:
+      74: -3369949351177115883
+    second: Armature|Armature|Armature.001Action.002
+  - first:
+      74: 313791865415953786
+    second: Armature|Armature|Armature.004Action
+  - first:
+      74: -2255420247626338864
+    second: Armature|Armature|Armature.005Action
+  - first:
+      74: -1093631762218286611
+    second: Armature|Armature|Armature.006Action
+  - first:
+      74: 1850398963721040937
+    second: Armature|Bike|Armature.001Action.001
+  - first:
+      74: -1233013783899590925
+    second: Armature|Bike|Armature.001Action.002
+  - first:
+      74: -5261970839453547651
+    second: Armature|Bike|Armature.004Action
+  - first:
+      74: 1016004828665123249
+    second: Armature|Bike|Armature.005Action
+  - first:
+      74: -4533102855576904697
+    second: Armature|Bike|Armature.006Action
+  - first:
+      74: 3538623887647027896
+    second: Armature|high-tech bike.003|Armature.001Action.001
+  - first:
+      74: -6259522019827253988
+    second: Armature|high-tech bike.003|Armature.001Action.002
+  - first:
+      74: 6634285672326950442
+    second: Armature|high-tech bike.003|Armature.004Action
+  - first:
+      74: 4191508261486370236
+    second: Armature|high-tech bike.003|Armature.005Action
+  - first:
+      74: 482477148338124829
+    second: Armature|high-tech bike.003|Armature.006Action
+  - first:
+      74: 3862533013825241222
+    second: Armature|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.001
+  - first:
+      74: 6920719221449435322
+    second: Armature|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.002
+  - first:
+      74: -4857479135037342061
+    second: Armature|ShirtAndPants_Liam_Mat_0.008|Armature.004Action
+  - first:
+      74: 3474163521532004134
+    second: Armature|ShirtAndPants_Liam_Mat_0.008|Armature.005Action
+  - first:
+      74: 5522064942210210183
+    second: Armature|ShirtAndPants_Liam_Mat_0.008|Armature.006Action
+  - first:
+      74: 776108238613350812
+    second: Armature.001|Armature.001|Armature.001Action.001
+  - first:
+      74: 958766451763020725
+    second: Armature.001|Armature.001|Armature.001Action.002
+  - first:
+      74: -6932650296078118624
+    second: Armature.001|Armature.001|Armature.004Action
+  - first:
+      74: -1842707243673366329
+    second: Armature.001|Armature.001|Armature.005Action
+  - first:
+      74: 8509846013068984806
+    second: Armature.001|Armature.001|Armature.006Action
+  - first:
+      74: -3841063650932629872
+    second: Armature.001|Bike|Armature.001Action.001
+  - first:
+      74: -3862319276451811042
+    second: Armature.001|Bike|Armature.001Action.002
+  - first:
+      74: -3912670212198290602
+    second: Armature.001|Bike|Armature.004Action
+  - first:
+      74: -5644688817283770400
+    second: Armature.001|Bike|Armature.005Action
+  - first:
+      74: 1211147496581687079
+    second: Armature.001|Bike|Armature.006Action
+  - first:
+      74: -2010812579898340952
+    second: Armature.001|high-tech bike.003|Armature.001Action.001
+  - first:
+      74: -1515033907439558251
+    second: Armature.001|high-tech bike.003|Armature.001Action.002
+  - first:
+      74: 6021362911832907903
+    second: Armature.001|high-tech bike.003|Armature.004Action
+  - first:
+      74: 5834758444269452304
+    second: Armature.001|high-tech bike.003|Armature.005Action
+  - first:
+      74: 6964256910832622868
+    second: Armature.001|high-tech bike.003|Armature.006Action
+  - first:
+      74: -5572038879139547675
+    second: Armature.001|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.001
+  - first:
+      74: 8762422424743906473
+    second: Armature.001|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.002
+  - first:
+      74: 6959322729749995919
+    second: Armature.001|ShirtAndPants_Liam_Mat_0.008|Armature.004Action
+  - first:
+      74: -1745753527055110709
+    second: Armature.001|ShirtAndPants_Liam_Mat_0.008|Armature.005Action
+  - first:
+      74: 4193645086605661964
+    second: Armature.001|ShirtAndPants_Liam_Mat_0.008|Armature.006Action
+  - first:
+      74: -8400816371606979156
+    second: Bike|Bike|Armature.001Action.001
+  - first:
+      74: 241176901334151897
+    second: Bike|Bike|Armature.001Action.002
+  - first:
+      74: 2805106447525368776
+    second: Bike|Bike|Armature.004Action
+  - first:
+      74: -8334076040893610172
+    second: Bike|Bike|Armature.005Action
+  - first:
+      74: -8873015358076637528
+    second: Bike|Bike|Armature.006Action
+  - first:
+      74: 1140133126365355090
+    second: Bike|high-tech bike.003|Armature.001Action.001
+  - first:
+      74: 896917041081850724
+    second: Bike|high-tech bike.003|Armature.001Action.002
+  - first:
+      74: -3262510193585887936
+    second: Bike|high-tech bike.003|Armature.004Action
+  - first:
+      74: -289046637751144490
+    second: Bike|high-tech bike.003|Armature.005Action
+  - first:
+      74: 8379119390673293302
+    second: Bike|high-tech bike.003|Armature.006Action
+  - first:
+      74: -8375531925169678170
+    second: Bike|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.001
+  - first:
+      74: -1404648418239521658
+    second: Bike|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.002
+  - first:
+      74: -4113949260730162813
+    second: Bike|ShirtAndPants_Liam_Mat_0.008|Armature.004Action
+  - first:
+      74: -5258999387091263884
+    second: Bike|ShirtAndPants_Liam_Mat_0.008|Armature.005Action
+  - first:
+      74: -4430737765896890216
+    second: Bike|ShirtAndPants_Liam_Mat_0.008|Armature.006Action
+  - first:
+      74: 6076168231208570500
+    second: Armature.002|Armature.002|Armature.001Action.001
+  - first:
+      74: -7076700315723020824
+    second: Armature.002|Armature.002|Armature.001Action.002
+  - first:
+      74: -6254596252532156299
+    second: Armature.002|Armature.002|Armature.004Action
+  - first:
+      74: -562527420068169270
+    second: Armature.002|Armature.002|Armature.005Action
+  - first:
+      74: 3149349053419452059
+    second: Armature.002|Armature.002|Armature.006Action
+  - first:
+      74: -1765636314159158646
+    second: Armature.002|Bike|Armature.001Action.001
+  - first:
+      74: -4487614818123822674
+    second: Armature.002|Bike|Armature.001Action.002
+  - first:
+      74: -6327976304036432142
+    second: Armature.002|Bike|Armature.004Action
+  - first:
+      74: -2820738174441534050
+    second: Armature.002|Bike|Armature.005Action
+  - first:
+      74: -1867290532991512027
+    second: Armature.002|Bike|Armature.006Action
+  - first:
+      74: 1680805509885534068
+    second: Armature.002|high-tech bike.003|Armature.001Action.001
+  - first:
+      74: -7509232565500119176
+    second: Armature.002|high-tech bike.003|Armature.001Action.002
+  - first:
+      74: 1694915217063992280
+    second: Armature.002|high-tech bike.003|Armature.004Action
+  - first:
+      74: 5150411231458447261
+    second: Armature.002|high-tech bike.003|Armature.005Action
+  - first:
+      74: -6012399075678340573
+    second: Armature.002|high-tech bike.003|Armature.006Action
+  - first:
+      74: -7666925552734708650
+    second: Armature.002|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.001
+  - first:
+      74: 4726826297897198954
+    second: Armature.002|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.002
+  - first:
+      74: -3890427138796664032
+    second: Armature.002|ShirtAndPants_Liam_Mat_0.008|Armature.004Action
+  - first:
+      74: -8047982032869118969
+    second: Armature.002|ShirtAndPants_Liam_Mat_0.008|Armature.005Action
+  - first:
+      74: -7737550514416021461
+    second: Armature.002|ShirtAndPants_Liam_Mat_0.008|Armature.006Action
+  - first:
+      74: 6643025967320355572
+    second: Armature.003|Armature.003|Armature.001Action.001
+  - first:
+      74: 8877191308361796402
+    second: Armature.003|Armature.003|Armature.001Action.002
+  - first:
+      74: 1456060057462759511
+    second: Armature.003|Armature.003|Armature.004Action
+  - first:
+      74: -2951534162612657266
+    second: Armature.003|Armature.003|Armature.005Action
+  - first:
+      74: -5955598424226744811
+    second: Armature.003|Armature.003|Armature.006Action
+  - first:
+      74: -707676223157721716
+    second: Armature.003|Bike|Armature.001Action.001
+  - first:
+      74: 2040613069526526819
+    second: Armature.003|Bike|Armature.001Action.002
+  - first:
+      74: 5329621140705493282
+    second: Armature.003|Bike|Armature.004Action
+  - first:
+      74: -8358104781502509671
+    second: Armature.003|Bike|Armature.005Action
+  - first:
+      74: 4146925336399024924
+    second: Armature.003|Bike|Armature.006Action
+  - first:
+      74: -2670666662023005218
+    second: Armature.003|high-tech bike.003|Armature.001Action.001
+  - first:
+      74: 5047953367833451900
+    second: Armature.003|high-tech bike.003|Armature.001Action.002
+  - first:
+      74: 8334194714221414204
+    second: Armature.003|high-tech bike.003|Armature.004Action
+  - first:
+      74: 214639431643197034
+    second: Armature.003|high-tech bike.003|Armature.005Action
+  - first:
+      74: -7178461082134219911
+    second: Armature.003|high-tech bike.003|Armature.006Action
+  - first:
+      74: -4825974919937316663
+    second: Armature.003|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.001
+  - first:
+      74: 6562882054753462932
+    second: Armature.003|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.002
+  - first:
+      74: 4676757096558529231
+    second: Armature.003|ShirtAndPants_Liam_Mat_0.008|Armature.004Action
+  - first:
+      74: 1911427427136409074
+    second: Armature.003|ShirtAndPants_Liam_Mat_0.008|Armature.005Action
+  - first:
+      74: 1965714502515523520
+    second: Armature.003|ShirtAndPants_Liam_Mat_0.008|Armature.006Action
+  - first:
+      74: 3242522652345927563
+    second: Armature.004|Armature.004|Armature.001Action.001
+  - first:
+      74: 1236544123098848341
+    second: Armature.004|Armature.004|Armature.001Action.002
+  - first:
+      74: -4597727867795474052
+    second: Armature.004|Armature.004|Armature.004Action
+  - first:
+      74: 4459751168205191855
+    second: Armature.004|Armature.004|Armature.005Action
+  - first:
+      74: -3810935830223011363
+    second: Armature.004|Armature.004|Armature.006Action
+  - first:
+      74: -2306256703173664041
+    second: Armature.004|Bike|Armature.001Action.001
+  - first:
+      74: -8850817592320867605
+    second: Armature.004|Bike|Armature.001Action.002
+  - first:
+      74: -5790993659684796221
+    second: Armature.004|Bike|Armature.004Action
+  - first:
+      74: -3892718621352237512
+    second: Armature.004|Bike|Armature.005Action
+  - first:
+      74: 41094327602619219
+    second: Armature.004|Bike|Armature.006Action
+  - first:
+      74: -2833009307891366537
+    second: Armature.004|high-tech bike.003|Armature.001Action.001
+  - first:
+      74: -2637429755241799768
+    second: Armature.004|high-tech bike.003|Armature.001Action.002
+  - first:
+      74: -2459852811675648357
+    second: Armature.004|high-tech bike.003|Armature.004Action
+  - first:
+      74: -8010595611079630161
+    second: Armature.004|high-tech bike.003|Armature.005Action
+  - first:
+      74: -6228867246288844563
+    second: Armature.004|high-tech bike.003|Armature.006Action
+  - first:
+      74: -2979443625809962642
+    second: Armature.004|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.001
+  - first:
+      74: -8512140569261806318
+    second: Armature.004|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.002
+  - first:
+      74: 7329720460877484515
+    second: Armature.004|ShirtAndPants_Liam_Mat_0.008|Armature.004Action
+  - first:
+      74: -4602043842157046485
+    second: Armature.004|ShirtAndPants_Liam_Mat_0.008|Armature.005Action
+  - first:
+      74: 4967269722073265406
+    second: Armature.004|ShirtAndPants_Liam_Mat_0.008|Armature.006Action
+  - first:
+      74: -2077842174498545509
+    second: Armature.005|Armature.005|Armature.001Action.001
+  - first:
+      74: 8785341695945401803
+    second: Armature.005|Armature.005|Armature.001Action.002
+  - first:
+      74: -4202007031584694846
+    second: Armature.005|Armature.005|Armature.004Action
+  - first:
+      74: -8918829262094714026
+    second: Armature.005|Armature.005|Armature.005Action
+  - first:
+      74: -4722711616011187480
+    second: Armature.005|Armature.005|Armature.006Action
+  - first:
+      74: -1599030409729467390
+    second: Armature.005|Bike|Armature.001Action.001
+  - first:
+      74: 5415893797871580738
+    second: Armature.005|Bike|Armature.001Action.002
+  - first:
+      74: -470864232939780271
+    second: Armature.005|Bike|Armature.004Action
+  - first:
+      74: -9034251105671848775
+    second: Armature.005|Bike|Armature.005Action
+  - first:
+      74: 70525700641176193
+    second: Armature.005|Bike|Armature.006Action
+  - first:
+      74: -7498968516159212694
+    second: Armature.005|high-tech bike.003|Armature.001Action.001
+  - first:
+      74: -4186604188239053064
+    second: Armature.005|high-tech bike.003|Armature.001Action.002
+  - first:
+      74: 8797461451721770630
+    second: Armature.005|high-tech bike.003|Armature.004Action
+  - first:
+      74: 4367627551357253614
+    second: Armature.005|high-tech bike.003|Armature.005Action
+  - first:
+      74: -3117289417165322023
+    second: Armature.005|high-tech bike.003|Armature.006Action
+  - first:
+      74: -6310838525225720287
+    second: Armature.005|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.001
+  - first:
+      74: 2061123552403820640
+    second: Armature.005|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.002
+  - first:
+      74: -3931833884884687431
+    second: Armature.005|ShirtAndPants_Liam_Mat_0.008|Armature.004Action
+  - first:
+      74: 851200192933242141
+    second: Armature.005|ShirtAndPants_Liam_Mat_0.008|Armature.005Action
+  - first:
+      74: 4713113183000594537
+    second: Armature.005|ShirtAndPants_Liam_Mat_0.008|Armature.006Action
+  - first:
+      74: 2160580764735099481
+    second: Armature.006|Armature.006|Armature.001Action.001
+  - first:
+      74: -8658861671602795378
+    second: Armature.006|Armature.006|Armature.001Action.002
+  - first:
+      74: 7166887076163921184
+    second: Armature.006|Armature.006|Armature.004Action
+  - first:
+      74: -4142763580201353417
+    second: Armature.006|Armature.006|Armature.005Action
+  - first:
+      74: 5684608510999935034
+    second: Armature.006|Armature.006|Armature.006Action
+  - first:
+      74: -6524184680705530663
+    second: Armature.006|Bike|Armature.001Action.001
+  - first:
+      74: 2703702943097304877
+    second: Armature.006|Bike|Armature.001Action.002
+  - first:
+      74: -3962859430106272194
+    second: Armature.006|Bike|Armature.004Action
+  - first:
+      74: 3610682732724079225
+    second: Armature.006|Bike|Armature.005Action
+  - first:
+      74: 7875512448637026898
+    second: Armature.006|Bike|Armature.006Action
+  - first:
+      74: 7381637612152214387
+    second: Armature.006|high-tech bike.003|Armature.001Action.001
+  - first:
+      74: -2210687549782266855
+    second: Armature.006|high-tech bike.003|Armature.001Action.002
+  - first:
+      74: 6337904749125101153
+    second: Armature.006|high-tech bike.003|Armature.004Action
+  - first:
+      74: -5779099211636594197
+    second: Armature.006|high-tech bike.003|Armature.005Action
+  - first:
+      74: -7882915816790216475
+    second: Armature.006|high-tech bike.003|Armature.006Action
+  - first:
+      74: -6740754486859227721
+    second: Armature.006|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.001
+  - first:
+      74: 3920687369385322880
+    second: Armature.006|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.002
+  - first:
+      74: 5605628414006699818
+    second: Armature.006|ShirtAndPants_Liam_Mat_0.008|Armature.004Action
+  - first:
+      74: 8334481750905465245
+    second: Armature.006|ShirtAndPants_Liam_Mat_0.008|Armature.005Action
+  - first:
+      74: -1886366585789160886
+    second: Armature.006|ShirtAndPants_Liam_Mat_0.008|Armature.006Action
+  - first:
+      74: -3965683859325956246
+    second: high-tech bike.003|Bike|Armature.001Action.001
+  - first:
+      74: -347645739631479607
+    second: high-tech bike.003|Bike|Armature.001Action.002
+  - first:
+      74: 7755211390246355291
+    second: high-tech bike.003|Bike|Armature.004Action
+  - first:
+      74: 2863705123376472164
+    second: high-tech bike.003|Bike|Armature.005Action
+  - first:
+      74: -5789786648554965684
+    second: high-tech bike.003|Bike|Armature.006Action
+  - first:
+      74: 3542378402665496829
+    second: high-tech bike.003|high-tech bike.003|Armature.001Action.001
+  - first:
+      74: 6188439834542400982
+    second: high-tech bike.003|high-tech bike.003|Armature.001Action.002
+  - first:
+      74: -3184857940757831873
+    second: high-tech bike.003|high-tech bike.003|Armature.004Action
+  - first:
+      74: -8254802715743928666
+    second: high-tech bike.003|high-tech bike.003|Armature.005Action
+  - first:
+      74: -7675205356316755275
+    second: high-tech bike.003|high-tech bike.003|Armature.006Action
+  - first:
+      74: 1815061358580381199
+    second: high-tech bike.003|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.001
+  - first:
+      74: -651937009601891301
+    second: high-tech bike.003|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.002
+  - first:
+      74: 6871983047794233659
+    second: high-tech bike.003|ShirtAndPants_Liam_Mat_0.008|Armature.004Action
+  - first:
+      74: 3542790348665785225
+    second: high-tech bike.003|ShirtAndPants_Liam_Mat_0.008|Armature.005Action
+  - first:
+      74: -6664970639830732807
+    second: high-tech bike.003|ShirtAndPants_Liam_Mat_0.008|Armature.006Action
+  - first:
+      74: 3335734259035614317
+    second: ShirtAndPants_Liam_Mat_0.008|Bike|Armature.001Action.001
+  - first:
+      74: -6789773581688175723
+    second: ShirtAndPants_Liam_Mat_0.008|Bike|Armature.001Action.002
+  - first:
+      74: 9164125533344919323
+    second: ShirtAndPants_Liam_Mat_0.008|Bike|Armature.004Action
+  - first:
+      74: -3286308246179825785
+    second: ShirtAndPants_Liam_Mat_0.008|Bike|Armature.005Action
+  - first:
+      74: 7086108834267479408
+    second: ShirtAndPants_Liam_Mat_0.008|Bike|Armature.006Action
+  - first:
+      74: -9188943192565449137
+    second: ShirtAndPants_Liam_Mat_0.008|high-tech bike.003|Armature.001Action.001
+  - first:
+      74: -739644152423130232
+    second: ShirtAndPants_Liam_Mat_0.008|high-tech bike.003|Armature.001Action.002
+  - first:
+      74: 1672444919043332817
+    second: ShirtAndPants_Liam_Mat_0.008|high-tech bike.003|Armature.004Action
+  - first:
+      74: 5861749568592341375
+    second: ShirtAndPants_Liam_Mat_0.008|high-tech bike.003|Armature.005Action
+  - first:
+      74: 3782012560419217906
+    second: ShirtAndPants_Liam_Mat_0.008|high-tech bike.003|Armature.006Action
+  - first:
+      74: -2554030689606133007
+    second: ShirtAndPants_Liam_Mat_0.008|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.001
+  - first:
+      74: -1303176886854642589
+    second: ShirtAndPants_Liam_Mat_0.008|ShirtAndPants_Liam_Mat_0.008|Armature.001Action.002
+  - first:
+      74: 4166031145858084437
+    second: ShirtAndPants_Liam_Mat_0.008|ShirtAndPants_Liam_Mat_0.008|Armature.004Action
+  - first:
+      74: 8315699904033992302
+    second: ShirtAndPants_Liam_Mat_0.008|ShirtAndPants_Liam_Mat_0.008|Armature.005Action
+  - first:
+      74: 7791826621395369720
+    second: ShirtAndPants_Liam_Mat_0.008|ShirtAndPants_Liam_Mat_0.008|Armature.006Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
