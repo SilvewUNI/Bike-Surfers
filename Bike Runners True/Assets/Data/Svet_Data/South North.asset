@@ -15,5 +15,6 @@ MonoBehaviour:
   chunkSize: {x: 37.5, y: 37.5}
   levelChunks:
   - {fileID: 6452092530164941427, guid: 4473641fe42e2da42b7cd138e712ace9, type: 3}
+  - {fileID: 2445321907486661725, guid: 43494309823395941b8f5ff4e0dad437, type: 3}
   entryDirection: 2
   exitDirection: 0
