@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 110e27649e857934e902f2bb56da3a1a, type: 3}
-  m_Name: East to N
-  m_EditorClassIdentifier: 
+  m_Name: East North
+  m_EditorClassIdentifier: Assembly-CSharp::LevelChunkData
   chunkSize: {x: 37.5, y: 37.5}
   levelChunks:
-  - {fileID: 5898387342073179433, guid: b461cd3368eff5143b4e090a70b29898, type: 3}
+  - {fileID: 4299001397909463463, guid: 1ffcb39d807d3dc4abe2dae62732a64e, type: 3}
   entryDirection: 1
   exitDirection: 0
