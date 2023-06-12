@@ -3,27 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - signalhit
-  - Signal
-  - Coin
-  - SignalArea
-  - LeftChecker
-  - RightChecker
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ground
+  - 
   - Water
   - UI
-<<<<<<< Updated upstream
   - 
   - 
-=======
-  - Post Procesing
-  - NoPost
->>>>>>> Stashed changes
   - 
   - 
   - 
