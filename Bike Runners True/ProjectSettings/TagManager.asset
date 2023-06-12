@@ -7,6 +7,9 @@ TagManager:
   - signalhit
   - Signal
   - Coin
+  - SignalArea
+  - LeftChecker
+  - RightChecker
   layers:
   - Default
   - TransparentFX

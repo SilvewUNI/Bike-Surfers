@@ -7,10 +7,11 @@ public class ObjectDisappearingZone : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player")) 
+        if (other.CompareTag("Player")) // Change "Player" to the appropriate tag for your character
         {
             characterEntered = true;
-            Invoke("DisappearObject", 3f);
+            float cooldown = Random.Range(3f, 10f);
+            Invoke("DisappearObject", cooldown);
         }
     }
 
