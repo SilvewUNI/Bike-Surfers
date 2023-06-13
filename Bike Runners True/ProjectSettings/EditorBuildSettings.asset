@@ -4,7 +4,25 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Svet_Scene/MainMenu.unity
+    guid: 2e7ad2672a86bf74cb2efda11cd13b55
+  - enabled: 1
+    path: Assets/Scenes/Svet_Scene/Code Test.unity
+    guid: 9d8ab89df45aae84b98d393735ae395d
+  - enabled: 1
+    path: Assets/Scenes/Hris_Scene/End Screen.unity
+    guid: aa834ac113a0f9341a50e920e9fa0208
+  - enabled: 1
+    path: Assets/Scenes/Svet_Scene/Tutorial 1 movement.unity
+    guid: 5a70b29280442c740a288f354909a5a4
+  - enabled: 1
+    path: Assets/Scenes/Svet_Scene/Tutorial 2 Red Light.unity
+    guid: d5727962cd338794990a543506acde55
+  - enabled: 1
+    path: Assets/Scenes/Svet_Scene/Tutorial 3 Signaling.unity
+    guid: ce6ccc79cbe7fb94e9962cb48e3e9143
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 413da4f7a342b694a85616e3e4e9af96, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 15a1c1d41ec98324197d557916dc85a9, type: 2}

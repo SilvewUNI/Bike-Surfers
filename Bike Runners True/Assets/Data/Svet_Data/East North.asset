@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::LevelChunkData
   chunkSize: {x: 37.5, y: 37.5}
   levelChunks:
-  - {fileID: 4299001397909463463, guid: 1ffcb39d807d3dc4abe2dae62732a64e, type: 3}
+  - {fileID: 3718436206303176657, guid: bdf2e477b40cc2340b4638ae835caaaf, type: 3}
   entryDirection: 1
   exitDirection: 0
